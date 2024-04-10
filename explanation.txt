@@ -1,0 +1,6 @@
+first cheack git --version 
+there git accessible or not 
+
+ IN TERMINAL
+[ gir --version] 
+
