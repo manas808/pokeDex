@@ -4,3 +4,7 @@ there git accessible or not
  IN TERMINAL
 [ gir --version] 
 
+git config --global user.name "manas808"
+git config --global user.email "manas.web90@gmail.com"
+git commit -m "initial setup don"
+
